@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>859</width>
+    <height>347</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(42, 39, 39);</string>
+  </property>
+  <widget class="QLCDNumber" name="lcdNumber">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>100</y>
+     <width>181</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>true</kerning>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(228, 7, 25);</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::NoFrame</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <property name="smallDecimalPoint">
+    <bool>false</bool>
+   </property>
+   <property name="digitCount">
+    <number>3</number>
+   </property>
+   <property name="segmentStyle">
+    <enum>QLCDNumber::Flat</enum>
+   </property>
+   <property name="value" stdset="0">
+    <double>8.800000000000001</double>
+   </property>
+  </widget>
+  <widget class="QLabel" name="redLeft2">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>90</y>
+     <width>31</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>redLeft.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="redRight2">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>100</y>
+     <width>31</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>redRight.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="redRight1">
+   <property name="geometry">
+    <rect>
+     <x>578</x>
+     <y>100</y>
+     <width>31</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>redRight1.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="redLeft1">
+   <property name="geometry">
+    <rect>
+     <x>252</x>
+     <y>90</y>
+     <width>31</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>redLeft1.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="yellowRight2">
+   <property name="geometry">
+    <rect>
+     <x>615</x>
+     <y>100</y>
+     <width>31</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>yellowRight2.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="yellowLeft2">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>100</y>
+     <width>31</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>yellowLeft2.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="yellowRight1">
+   <property name="geometry">
+    <rect>
+     <x>652</x>
+     <y>100</y>
+     <width>31</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>yellowRight1.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="yellowLeft1">
+   <property name="geometry">
+    <rect>
+     <x>184</x>
+     <y>100</y>
+     <width>31</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>yellowLeft1.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="greenRight2">
+   <property name="geometry">
+    <rect>
+     <x>681</x>
+     <y>100</y>
+     <width>21</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>greenRight2.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="greenRight1">
+   <property name="geometry">
+    <rect>
+     <x>703</x>
+     <y>100</y>
+     <width>16</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>greenRight1.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="greenLeft2">
+   <property name="geometry">
+    <rect>
+     <x>162</x>
+     <y>100</y>
+     <width>16</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>greenLeft2.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="greenLeft1">
+   <property name="geometry">
+    <rect>
+     <x>145</x>
+     <y>100</y>
+     <width>16</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>greenLeft1.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="greenRight0">
+   <property name="geometry">
+    <rect>
+     <x>719</x>
+     <y>100</y>
+     <width>31</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>greenRight0.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="greenLeft0">
+   <property name="geometry">
+    <rect>
+     <x>131</x>
+     <y>101</y>
+     <width>16</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <kerning>false</kerning>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>greenLeft0.png</pixmap>
+   </property>
+  </widget>
+  <zorder>lcdNumber</zorder>
+  <zorder>redLeft2</zorder>
+  <zorder>redRight2</zorder>
+  <zorder>redRight1</zorder>
+  <zorder>redLeft1</zorder>
+  <zorder>yellowRight2</zorder>
+  <zorder>yellowLeft2</zorder>
+  <zorder>yellowRight1</zorder>
+  <zorder>yellowLeft1</zorder>
+  <zorder>greenRight2</zorder>
+  <zorder>greenRight1</zorder>
+  <zorder>greenLeft2</zorder>
+  <zorder>greenRight0</zorder>
+  <zorder>greenLeft0</zorder>
+  <zorder>greenLeft1</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

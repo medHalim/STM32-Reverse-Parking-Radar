@@ -1,0 +1,129 @@
+<<<<<<< HEAD
+# ==============================
+# STM32 Firmware (Keil + CubeMX)
+# ==============================
+
+# Keil uVision output files
+*.axf
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.ilk
+*.tmp
+
+# Keil project user files
+*.uvoptx
+*.uvprojx.user
+*.bak
+*.swp
+*.log
+
+# STM32CubeMX temporary / backup files
+*.ioc.bak
+*.ioc_temp
+
+# Build / output folders
+/Objects/
+/Debug/
+/Release/
+/Build/
+
+# Backup files
+*~
+*.old
+*.orig
+
+# ==============================
+# Python GUI
+# ==============================
+
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs / temporary files
+*.log
+*.tmp
+=======
+# ==============================
+# STM32 Firmware (Keil + CubeMX)
+# ==============================
+
+# Keil uVision output files
+*.axf
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.ilk
+*.tmp
+
+# Keil project user files
+*.uvoptx
+*.uvprojx.user
+*.bak
+*.swp
+*.log
+
+# STM32CubeMX temporary / backup files
+*.ioc.bak
+*.ioc_temp
+
+# Build / output folders
+/Objects/
+/Debug/
+/Release/
+/Build/
+
+# Backup files
+*~
+*.old
+*.orig
+
+# ==============================
+# Python GUI
+# ==============================
+
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs / temporary files
+*.log
+*.tmp
+>>>>>>> c43f9ad (initial commit)
