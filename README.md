@@ -13,7 +13,7 @@ The project focuses on embedded communication, modular firmware design, and real
 ---
 
 ## 🖼️ Prototype
-![GUI Demo](docs/images/demo.gif)
+![demo](https://github.com/user-attachments/assets/228aad8b-94cc-44aa-a7c0-8297ccb34240)
 
 ---
 
