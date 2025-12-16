@@ -13,12 +13,12 @@ The project focuses on embedded communication, modular firmware design, and real
 ---
 
 ## 🖼️ Prototype
-![GUI Demo](docs/images/demo.gif)
+![Demo](https://github.com/user-attachments/assets/b2df0ccb-7ff9-4634-9dc6-a2d4f9c5aec0)
 
 ---
 
 ## 🔌 Schematic
-<img width="1912" height="687" alt="{E1CBD8BD-B3A7-4D25-B049-17AFF46C16C6}" src="https://github.com/user-attachments/assets/59625fe3-0b96-4c3e-9868-63f5b50d6584" />
+<img width="1916" height="685" alt="{B095316C-AC00-4894-A1B5-4D2E2D2372C8}" src="https://github.com/user-attachments/assets/e4398ef4-b2d5-4a42-b7db-3d468469f4a6" />
 
 ---
 
