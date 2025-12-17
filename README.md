@@ -1,7 +1,7 @@
-# STM32 Reversing Radar System
+# STM32 Ultrasonic Parking Aid
 
 ## 📌 Project Overview
-The **STM32 Reversing Radar** is a **multi-node embedded system** that simulates an automotive reverse parking radar using **STM32 microcontrollers** and a **PC-based GUI**.
+The **STM32 Ultrasonic Parking Aid** is a **multi-node embedded system** that simulates an automotive reverse parking aid using **STM32 microcontrollers** and a **PC-based GUI**.
 
 The system consists of:
 - a **Transmitter (Sensor) node** measuring obstacle distance,
